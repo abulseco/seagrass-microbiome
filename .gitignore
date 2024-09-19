@@ -50,3 +50,9 @@ rsconnect/
 
 # Rproj
 *.Rproj
+
+# Ignore fastq files
+*.fastq
+
+# Ignore database fasta files
+*.fasta
